@@ -24,7 +24,8 @@ findNemo("I Nemo am") ➞ "I found Nemo at 2!"
 - If there are multiple Nemo's in the sentence, only return for the first one.
 
 
-Comments 
+### Comments 
+
 Really liked this one, rewrote it around 5 times. 
 
 Started with a simple implementation in main with a .split_whitespace() and a for loop with a if statement in it, got it down to the main and a single function using the iter methods and a match and finally in what you see today. 
